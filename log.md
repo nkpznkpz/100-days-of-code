@@ -27,3 +27,14 @@
 https://github.com/nkpznkpz/NextX-Frontend/commit/5c30cee6da72e674c8017d006f437ef60c39ae32](
 https://github.com/nkpznkpz/NextX-Frontend/commit/5c30cee6da72e674c8017d006f437ef60c39ae32)
 
+### Day 3: May 22, 2019 
+
+**Today's Progress**: Folder Structure, React Router.
+
+**Thoughts**: research folder structure and typescript, Finally I try to use React Router.
+
+**Link(s) to work**: [
+https://github.com/nkpznkpz/NextX-Frontend/commit/c479b8e74f64cfcfffbc44d14b0756fe81cecacc](
+https://github.com/nkpznkpz/NextX-Frontend/commit/c479b8e74f64cfcfffbc44d14b0756fe81cecacc)
+
+
